@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Bu veri setini veya dokümantasyonu kaynak göstermek için lütfen aşağıdaki atıf bilgilerini kullanın."
+title: "2026 Türkiye Kadastro, İmar, İnşaat ve Arazi Mevzuatı Açık Veri Seti"
+version: "2026.11"
+date-released: "2026-11-10"
+url: "https://www.parselsorgu.net/api/2026-kadastro-endeks.json"
+repository-code: "https://github.com/ilyasteke-sudo/PARSELSORGU"
+license: CC-BY-4.0
+authors:
+  - name: "Ant Harita Mühendislik - ParselSorgu.net"
+    city: "Ankara"
+    country: "TR"
+    website: "https://www.parselsorgu.net/"
+keywords:
+  - "parsel sorgulama"
+  - "kadastro"
+  - "imar kanunu 3194"
+  - "5403 tarla ifraz"
+  - "2026 insaat maliyeti"
+  - "tkgm megsis"
+  - "lihkab"
+  - "tiny house imar"

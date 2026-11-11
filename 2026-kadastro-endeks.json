@@ -1,0 +1,58 @@
+{
+  "dataset_name": "2026 Türkiye Kadastro, İmar, İnşaat ve Arazi Mevzuatı Açık Veri Seti",
+  "version": "2026.11",
+  "publisher": {
+    "name": "Ant Harita Mühendislik - ParselSorgu.net",
+    "hkmo_sicil": "12480",
+    "lihkab_lisans": "06-042",
+    "url": "https://www.parselsorgu.net/",
+    "github_repository": "https://github.com/ilyasteke-sudo/PARSELSORGU"
+  },
+  "insaat_ve_sgk_2026": {
+    "csidb_birim_maliyetleri_tl_m2": {
+      "2C_depo_prefabrik": 9800,
+      "3A_mustakil_villa": 14500,
+      "3B_apartman_konut": 17800,
+      "4A_luks_ticari": 22400
+    },
+    "sgk_asgari_iscilik_orani_yuzde": 6.75,
+    "sgk_indirimli_efektif_maliyet_orani_yuzde": 2.531,
+    "yapi_denetim_orani_yuzde": 1.75,
+    "hesaplama_araci": "https://www.parselsorgu.net/insaat-ruhsati-harc-hesaplama"
+  },
+  "tarim_ve_ifraz_5403": {
+    "mutlak_marjinal_tarim_asgari_m2": 20000,
+    "dikili_tarim_asgari_m2": 5000,
+    "ortualti_sera_asgari_m2": 3000,
+    "koy_evi_plansiz_alan_min_m2": 5000,
+    "koy_evi_max_taban_alani_m2": 250,
+    "hesaplama_araci": "https://www.parselsorgu.net/tarla-ifraz-hesaplama"
+  },
+  "tapu_miras_ve_hukuk_2026": {
+    "tapu_satis_harci_toplam_yuzde": 4.0,
+    "miras_sag_kalan_es_payi_cocuklarla": "1/4 (%25)",
+    "veraset_vergisi_2026_istisna_tl": 2300000,
+    "sufa_noter_bildirim_suresi_gun": 90,
+    "sufa_ihbarsiz_hak_dusurucu_yil": 2,
+    "izalei_suyu_ihale_baslangic_yuzde": 50,
+    "2b_hazine_rayic_satis_orani_yuzde": 50,
+    "2b_pesin_ek_indirim_yuzde": 20,
+    "hesaplama_araclari": [
+      "https://www.parselsorgu.net/miras-paylasimi-veraset-intikal",
+      "https://www.parselsorgu.net/sufa-on-alim-hakki",
+      "https://www.parselsorgu.net/izalei-suyu-dava-masraf-hesaplama",
+      "https://www.parselsorgu.net/hazine-arazisi-2b-satin-alma"
+    ]
+  },
+  "tiny_house_ve_cevirme": {
+    "tiny_house_o2_karavan": "3194 İmar Kanunu kapsamı dışında tescilli vasıta sayılır (beton subasman hariç)",
+    "tel_cit_direk_araligi_m": 3,
+    "hesaplama_araclari": [
+      "https://www.parselsorgu.net/tiny-house-imar-uygunluk",
+      "https://www.parselsorgu.net/tel-cit-duvar-maliyet",
+      "https://www.parselsorgu.net/ncn-dxf-kml-donusturucu",
+      "https://www.parselsorgu.net/altyapi-risk-radari",
+      "https://www.parselsorgu.net/imar-dilekce-olusturucu"
+    ]
+  }
+}
