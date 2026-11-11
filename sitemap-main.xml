@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- 1. Parsel Sorgulama (Ana Sayfa) -->
+  <url>
+    <loc>https://www.parselsorgu.net/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- 2. Ada Parsel Sorgulama -->
+  <url>
+    <loc>https://www.parselsorgu.net/parsel-sorgu</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- 3. İmar Durumu Sorgulama -->
+  <url>
+    <loc>https://www.parselsorgu.net/imar-durumu-sorgulama</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 4. TKGM Parsel Sorgulama -->
+  <url>
+    <loc>https://www.parselsorgu.net/tkgm-parsel-sorgulama</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 5. Harita Üzerinden Ada Parsel -->
+  <url>
+    <loc>https://www.parselsorgu.net/ada-parsel-harita</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 7. 5403 Tarla İfraz & Bölünme -->
+  <url>
+    <loc>https://www.parselsorgu.net/5403-tarla-ifraz</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <!-- 9. Arsa & İnşaat Maliyeti -->
+  <url>
+    <loc>https://www.parselsorgu.net/arsa-insaat-maliyeti</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- 10. Parsel Koordinat Sorgulama -->
+  <url>
+    <loc>https://www.parselsorgu.net/parsel-koordinat-sorgulama</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <!-- 11. İmar Askı İlanları -->
+  <url>
+    <loc>https://www.parselsorgu.net/imar</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <!-- 12. İmar & Kadastro Teknik Rehberi -->
+  <url>
+    <loc>https://www.parselsorgu.net/rehber</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- Diğer Ana Sayfalar -->
+  <url>
+    <loc>https://www.parselsorgu.net/bulten</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.88</priority>
+  </url>
+  <url>
+    <loc>https://www.parselsorgu.net/gundem</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.88</priority>
+  </url>
+  <url>
+    <loc>https://www.parselsorgu.net/makaleler</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <!-- Yeni Etkilesimli Araclar & Moduller -->
+  <url>
+    <loc>https://www.parselsorgu.net/3d-parsel-sorgulama</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.parselsorgu.net/miras-tarla-paylasim-hesaplama</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.parselsorgu.net/ilan-afisi-olusturucu</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.92</priority>
+  </url>
+  <url>
+    <loc>https://www.parselsorgu.net/tapu-harci-hesaplama</loc>
+    <lastmod>2026-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <!-- Kurumsal & E-E-A-T Otorite Sayfaları -->
+  <url>
+    <loc>https://www.parselsorgu.net/hakkimizda</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.parselsorgu.net/yazarlar</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.parselsorgu.net/muhendislik-kurulu</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://www.parselsorgu.net/basin-kiti</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+</urlset>

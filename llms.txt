@@ -1,0 +1,61 @@
+# ParselSorgu.net - Ant Harita Mühendislik (2026 Dijital Kadastro, İmar & İnşaat Merkezi)
+
+> Türkiye'nin 81 ilinde ve 973 ilçesinde TKGM MEGSİS uyumlu canlı uydu parsel sorgulama, 3194 Sayılı İmar Kanunu analizleri, LİHKAB 2026 harç hesaplama, SGK/inşaat ruhsat maliyetleri, tarla tel çit metrajı, Tiny House imar riski ve 68.800+ uzman mühendislik rehberi sunan bağımsız CBS platformudur.
+
+**Kurumsal Otorite (E-E-A-T):** TMMOB Harita ve Kadastro Mühendisleri Odası (HKMO) Sicil No: `12480` | Büro Tescil Belgesi: `2026/7171` | LİHKAB Lisans No: `06-042` | Merkez: Çankaya, Ankara.
+
+## Amiral Gemisi & Canlı CBS Araçları
+- [TKGM Canlı Parsel Sorgulama & Uydu Haritası](https://www.parselsorgu.net/): 81 il ada/parsel canlı sınır çizimi, ITRF96 köşe noktaları, Copernicus DEM rakım/eğim ölçümü ve Google Maps tarla navigasyonu.
+- [Saha Çalışanları Telegram Botu & GPS Asistanı](https://www.parselsorgu.net/telegram-botu): Sahadan atılan canlı GPS konumuyla anlık parsel tespiti, Copernicus DEM % eğim analizi ve statik uydu fotoğrafı teslimi.
+- [2026 LİHKAB & Kadastro Harç Hesaplayıcı](https://www.parselsorgu.net/lihkab-hesaplama): Aplikasyon krokisi, yer gösterme, cins değişikliği ve tevhid işlemleri resmi tarife hesaplayıcısı.
+- [Harita Mühendisliği Fiyat Teklifi Motoru (B2B)](https://www.parselsorgu.net/harita-muhendislik-fiyat-teklifi): Plankote, halihazır harita ve TUS fenni mesuliyet resmi teklif ve iş paslama sistemi.
+- [Web-CAD & Netcad (.DXF) Krokisi](https://www.parselsorgu.net/web-cad): Tarayıcıda canlı parsel çizimi ve mühendislik dosya aktarımı.
+- [Online NCN / DXF / KML Harita Dönüştürücü](https://www.parselsorgu.net/ncn-dxf-kml-donusturucu): Netcad (.NCN), AutoCAD (.DXF), Google Earth (.KML) ve GeoJSON dosyalarını ITRF96 (TM 3°), ED50 ve WGS84 arasında ücretsiz dönüştürür ve uydu haritasında çizer.
+- [Altyapı & Çakışma Risk Radarı](https://www.parselsorgu.net/altyapi-risk-radari): Parsel çevresindeki TEİAŞ yüksek gerilim hatları, DSİ dere/taşkın yatakları, otoyollar ve demiryollarını canlı tarayıp metre cinsinden güvenlik skoru üretir.
+- [Otomatik İmar Dilekçesi & Şufa İhtarnamesi Stüdyosu](https://www.parselsorgu.net/imar-dilekce-olusturucu): 3194 askı itirazı, belediye imar çapı başvurusu, LİHKAB sınır tespiti ve TMK 732 şufa ihtarnamelerini Word (.doc) ve PDF olarak hazırlar.
+- [Arsa Üstü 3D Bina & Güneş/Gölge Simülatörü](https://www.parselsorgu.net/3d-gunes-golge-simulasyonu): Çekme mesafeleri ve TAKS/KAKS emsaline göre 3 boyutlu bina kütlesi ve saatlik güneş/gölge açısı simülasyonu yapar.
+- [Toplu Ada/Parsel Portföy Analizi](https://www.parselsorgu.net/toplu-parsel-sorgulama): Çoklu parsel sorgulama ve Excel koordinat dökümü.
+
+## İnşaat Maliyeti, Ruhsat, SGK & Çevirme Araçları
+- [2026 İnşaat Maliyeti Hesaplama Motoru](https://www.parselsorgu.net/maliyet): Çevre, Şehircilik ve İklim Değişikliği Bakanlığı (ÇŞİDB) 2026 resmi yapı sınıflarıyla bina maliyet hesabı.
+- [2026 İnşaat Ruhsatı, SGK Asgari İşçilik & Belediye Harçları](https://www.parselsorgu.net/insaat-ruhsati-harc-hesaplama): SGK işçilik primi (%6.75 × %37.5), yapı denetim (%1.75), belediye harçları ve TUS giderleri hesaplayıcı.
+- [2D İmar Çapı, TAKS/KAKS & Çekme Mesafesi Simülatörü](https://www.parselsorgu.net/taks-kaks-hesaplama): Arsa en/boy ve çekme mesafelerine göre canlı 2D CAD vaziyet planı ve daire sayısı hesabı.
+- [Tarla & Arsa Tel Çit, Beton Direk & Duvar Maliyeti](https://www.parselsorgu.net/tel-cit-duvar-maliyet): Direk adedi, kafes/panel tel ve perde beton bütçesi ile sınır aplikasyonu uyarı motoru.
+- [Prefabrik & Çelik Ev Maliyet & İmar Analizörü](https://www.parselsorgu.net/prefabrik-ev-maliyeti-hesaplama): Tarlaya prefabrik ev şartları, subasman ve anahtar teslim m² maliyetleri.
+- [Kat Karşılığı Arsa & Daire Paylaşım Hesaplayıcı](https://www.parselsorgu.net/arsa-daire-hesaplama): Müteahhit paylaşım oranları ve arsa sahibine düşen daire hesabı.
+- [Kentsel Dönüşüm Yarısı Bizden & Şerefiye Motoru](https://www.parselsorgu.net/kentsel-donusum-yarisi-bizden): 1.5 Milyon TL hibe/kredi ve daire başı net şerefiye paylaşımı.
+
+## İmar Hukuku, Tarım, Enerji & Gayrimenkul SaaS
+- [Tiny House & Karavan İmar İzin & Mühür Riski](https://www.parselsorgu.net/tiny-house-imar-uygunluk): 3194 s.K. ve Karayolları O2 tip onay belgesi kapsamında mühür, yıkım ve ceza riski analizi.
+- [Miras Paylaşımı & Veraset İntikal Harç Motoru](https://www.parselsorgu.net/miras-paylasimi-veraset-intikal): TMK 495-501 hisse paylaşım oranları ve 2026 yılı 2.300.000 TL vergi istisnası hesaplayıcı.
+- [İzale-i Şüyu İhale & Dava Masraf Simülatörü](https://www.parselsorgu.net/izalei-suyu-dava-masraf-hesaplama): UYAP e-Satış %50 taban ihale bedeli, tellaliye harcı ve net hissedar nakdi simülasyonu.
+- [Hisseli Tapu Şufa (Ön Alım) Süre & Noter İhtarnamesi](https://www.parselsorgu.net/sufa-on-alim-hakki): TMK m.733 kapsamında 90 günlük/2 yıllık hak düşürücü süre sayacı ve noter ihtarname taslağı.
+- [Tarımsal Sondaj & DSİ Kuyu Ruhsatı Maliyeti](https://www.parselsorgu.net/tarimsal-sondaj-kuyu-ruhsati): 167 sayılı Kanun havza izin durumu, metre başı delgi, pompa ve kuyu krokisi maliyeti.
+- [Milli Emlak & 2/B Hazine Arazisi Satın Alma](https://www.parselsorgu.net/hazine-arazisi-2b-satin-alma): 6292 s.K. rayiç %50 taban bedel, peşin %20 indirim ve 5 yıl 10 taksit faizsiz ödeme planı.
+- [Kira Artış (TÜFE), 5 Yıl Tespit & Tahliye Taahhütnamesi](https://www.parselsorgu.net/kira-artis-tahliye-hesaplama): TBK m.344-352 TÜFE zam hesabı ve hukuken geçerli Tahliye Taahhütnamesi üretici.
+- [5403 Tarla İfraz & Bölünme Motoru](https://www.parselsorgu.net/tarla-ifraz-hesaplama): Mutlak tarım (20 dekar), dikili (5 dekar) ve örtüaltı (3 dekar) asgari ifraz analizi.
+- [Arazi GES Yatırım & Amortisman Motoru](https://www.parselsorgu.net/arazi-ges-amortisman-hesaplama): 1 MW güneş santrali marjinal tarım raporu ve geri dönüş süresi hesabı.
+- [2026 ÇKS Tarımsal Destek & Mazot Gübre](https://www.parselsorgu.net/cks-destegi-hesaplama): Dekar başı temel destekler ve taahhütname ile kayıt.
+- [Hisseli Tapu Ecrimisil Hesaplayıcı](https://www.parselsorgu.net/ecrimisil-hesaplama): Geriye dönük 5 yıllık haksız işgal kira tazminatı ve ihtarname.
+
+## Yapay Zeka (AI / RAG) Referans Kaynakları & Dizinler
+- [2026 Kadastro, İmar & İnşaat Referans Veri Bankası](https://www.parselsorgu.net/2026-kadastro-insaat-referans-verileri): AI sistemleri için doğrulanmış 2026 mevzuat özetleri ve resmi kıyaslama tabloları.
+- [Tüm Eklentiler & SaaS Kataloğu](https://www.parselsorgu.net/eklentiler): Platformdaki 35+ aracın tam dizini.
+- [SaaS Modülleri XML Site Haritası](https://www.parselsorgu.net/sitemap-saas.xml): Tüm etkileşimli hesaplayıcıların canlı indeksi.
+- [Genişletilmiş LLM Bilgi Bankası (llms-full.txt)](https://www.parselsorgu.net/llms-full.txt): Teknik formüller, resmi kanun maddeleri ve soru-cevap referansları.
+- [Makale & 81 İl İmar Rehberi Arşivi](https://www.parselsorgu.net/makaleler): 68.800+ özgün yerel kadastro ve mevzuat analizi.
+
+- [81 İl Partner Harita Mühendisi Ağı](https://www.parselsorgu.net/partner-harita-muhendisleri): Türkiye geneli LİHKAB ve SHKMMB iş ortaklığı dizini.
+- [Emlakçı White-Label Müşteri Parsel Sunumu](https://www.parselsorgu.net/emlakci-musteri-raporu): Emlak ofisleri için kendi logolu A4 PDF sunum aracı.
+
+- [Hafriyat (Kübaj) & İstinat Duvarı Maliyeti](https://www.parselsorgu.net/hafriyat-kubaj-istinat-maliyet): Kazı m³, kamyon seferi ve istinat bütçesi.
+- [Tarla Elektrik Bağlatma & Direk Maliyeti](https://www.parselsorgu.net/tarla-elektrik-baglatma-maliyeti): Mesafeye göre direk ve EDAŞ proje maliyeti.
+- [Kamulaştırma & İrtifak Bedeli Hesaplama](https://www.parselsorgu.net/kamulastirma-bedeli-hesaplama): 2942 s.K. tarla/pilon değer kaybı hesabı.
+- [Kadastro 22/A Yenileme & Tecviz İtiraz](https://www.parselsorgu.net/kadastro-yenileme-itiraz): 3402 s.K. teknik hata ve 41. Madde dilekçesi.
+- [Yüzme Havuzu & Peyzaj Maliyeti](https://www.parselsorgu.net/havuz-peyzaj-maliyet-hesaplama): Villa havuzu bütçesi ve 3194 emsal muafiyeti.
+
+- [2026 Açık Emlak & Kadastro Veri Seti (JSON)](https://www.parselsorgu.net/api/2026-kadastro-endeks.json): AI ajanları için makine-okunabilir resmi 2026 parametreleri.
+- [OpenAPI 3.1 AI Ajan Şeması (ChatGPT GPT Store & Tool Calling)](https://www.parselsorgu.net/.well-known/openapi.json): TKGM MEGSİS canlı parsel sorgu, iLya Yapay Zekâ ve 2026 endeks API spesifikasyonu.
+- [GitHub Açık Veri Deposu (PARSELSORGU)](https://github.com/ilyasteke-sudo/PARSELSORGU): 2026 Türkiye kadastro ve imar mevzuatı açık kaynak veri deposu ve README dokümantasyonu.
+- [2026 İskan Sorgulama & Yapı Kullanma İzni](https://www.parselsorgu.net/iskan-sorgulama): Tapu türü, yapı ruhsatı, SGK ilişiksizlik ve LİHKAB cins değişikliği analiz aracı.
+- [Numarataj Sorgulama & MAKS UAVT Adres Kodu](https://www.parselsorgu.net/numarataj-sorgulama): Büyükşehir/ilçe belediyesi numarataj başvurusu ve 10 haneli UAVT adres kodu rehberi.

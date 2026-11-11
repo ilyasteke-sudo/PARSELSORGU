@@ -1,0 +1,155 @@
+# Robots.txt for Ant Harita Muhendislik Teknolojileri - ParselSorgu.net
+# 2026 Search Engine & Generative AI (GEO / LLMO) Optimized Rules
+
+User-agent: *
+Allow: /
+Allow: /eklentiler
+Allow: /2026-kadastro-insaat-referans-verileri
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /.well-known/ai-plugin.json
+Allow: /.well-known/openapi.json
+Allow: /openapi.json
+Allow: /ncn-dxf-kml-donusturucu
+Allow: /altyapi-risk-radari
+Allow: /imar-dilekce-olusturucu
+Allow: /3d-gunes-golge-simulasyonu
+Allow: /api/2026-kadastro-endeks.json
+Allow: /api/ilya
+Allow: /api/tkgm
+Allow: /api/health
+Allow: /taks-kaks-hesaplama
+Allow: /tel-cit-duvar-maliyet
+Allow: /sufa-on-alim-hakki
+Allow: /insaat-ruhsati-harc-hesaplama
+Allow: /kira-artis-tahliye-hesaplama
+Allow: /tiny-house-imar-uygunluk
+Allow: /miras-paylasimi-veraset-intikal
+Allow: /izalei-suyu-dava-masraf-hesaplama
+Allow: /tarimsal-sondaj-kuyu-ruhsati
+Allow: /hazine-arazisi-2b-satin-alma
+Allow: /lihkab-hesaplama
+Allow: /harita-muhendislik-fiyat-teklifi
+Allow: /telegram-botu
+Allow: /prefabrik-ev-maliyeti-hesaplama
+Allow: /cks-destegi-hesaplama
+Allow: /arazi-ges-amortisman-hesaplama
+Allow: /kentsel-donusum-yarisi-bizden
+Allow: /ecrimisil-hesaplama
+Allow: /tarla-verimlilik-raporu
+Allow: /emlak-vergisi-hesaplama
+Allow: /arsa-takas-pazari
+Allow: /yapi-kayit-belgesi-sorgulama
+Allow: /tarim-kredisi-hesaplama
+Allow: /parsel-sorgu
+Allow: /bot/
+Allow: /imar
+Allow: /imar-rehberi
+Allow: /maliyet
+Allow: /parsel
+Allow: /bulten
+Allow: /gundem
+Allow: /forum
+Allow: /pazar
+Allow: /makale/
+Allow: /makaleler
+Disallow: /admin.php
+Disallow: /api.php
+Disallow: /data/
+Disallow: /makaleler?*city=
+Disallow: /makaleler?*category=
+Disallow: /makaleler?*page=
+Disallow: /parsel/*/*/*/*/*
+Disallow: /parsel-sorgu/*/*/*/*/*
+
+# Classic Search Engines
+User-agent: Googlebot
+Allow: /
+Allow: /bot/
+Disallow: /admin.php
+Disallow: /api.php
+Disallow: /data/
+Disallow: /makaleler?*city=
+Disallow: /makaleler?*category=
+Disallow: /makaleler?*page=
+Disallow: /parsel/*/*/*/*/*
+Disallow: /parsel-sorgu/*/*/*/*/*
+
+User-agent: Bingbot
+Allow: /
+Allow: /bot/
+Disallow: /admin.php
+Disallow: /api.php
+Disallow: /makaleler?*city=
+Disallow: /makaleler?*category=
+Disallow: /makaleler?*page=
+Disallow: /parsel/*/*/*/*/*
+Disallow: /parsel-sorgu/*/*/*/*/*
+
+User-agent: Yandex
+Allow: /
+Allow: /bot/
+Disallow: /admin.php
+Disallow: /api.php
+Disallow: /parsel/*/*/*/*/*
+Clean-param: page&city&category /makaleler
+Host: https://www.parselsorgu.net
+
+# ==============================================================
+# GENERATIVE AI SEARCH & LLM AGENTS (GEO / LLMO FULL ACCESS)
+# ==============================================================
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: DeepSeekBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Authority XML Sitemaps
+Sitemap: https://www.parselsorgu.net/sitemap.xml
+Sitemap: https://www.parselsorgu.net/sitemap-ai.xml
+Sitemap: https://www.parselsorgu.net/sitemap-saas.xml
+Sitemap: https://www.parselsorgu.net/sitemap-main.xml
+Sitemap: https://www.parselsorgu.net/sitemap-news.xml
+Sitemap: https://www.parselsorgu.net/sitemap-forum.xml
+Sitemap: https://www.parselsorgu.net/sitemap-pazar.xml
+Sitemap: https://www.parselsorgu.net/sitemap-bots.xml
+Sitemap: https://www.parselsorgu.net/sitemap-latest.xml
+Sitemap: https://www.parselsorgu.net/sitemap-gundem.xml
+Sitemap: https://www.parselsorgu.net/sitemap-bulten.xml
+Sitemap: https://www.parselsorgu.net/sitemap-parsel-sorgu.xml
