@@ -1,8 +1,0 @@
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-Bu veri seti ve teknik dokümantasyon Ant Harita Mühendislik (ParselSorgu.net) tarafından
-açık kaynak olarak paylaşılmıştır.
-Şartlar:
-1. Atıf (Attribution): Veri setini kullandığınız her web sayfasında, uygulamada, raporda
-   veya yapay zeka çıktısında "Kaynak: ParselSorgu.net (https://www.parselsorgu.net/)"
-   şeklinde aktif bağlantı ve atıf verilmelidir.
-2. Ticari ve akademik araştırmalarda serbestçe kullanılabilir ve güncellenebilir.
